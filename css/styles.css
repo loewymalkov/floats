@@ -1,0 +1,20 @@
+.sidebar {
+  width: 30%;
+  float: right;
+  background-color: lightblue;
+}
+
+.picture1 {
+  float: right;
+  padding: 1px 1px 80px 5px;
+
+}
+.picture2 {
+  float: right;
+  padding: 1px 3px 8px 3px;
+}
+
+.column {
+  width: 300px;
+  float: left;
+}
